@@ -40,6 +40,9 @@ Adds a counter to the Anki homepage that counts how many new cards you've review
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/NewCardsCounter.jpg?raw=content">
 
 
-
+# Coming Soon
+- [ ] Manually Set Ease
+- [ ] Audiovisual Feedback (fanfare fork)
+- [ ] Web Scraper (Editor Buttons- Web, Format, Batch Process)
 
 
