@@ -39,9 +39,12 @@ Add an inspiration quote to the homepage of Anki to keep you motivated!
 Adds a counter to the Anki homepage that counts how many new cards you've reviewed today and this week (starting on a day of your choosing). On Anki 2.1.45+ it can also count a custom search query!
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/NewCardsCounter.jpg?raw=content">
 
+## Manually Set Ease Factor
+This add-on will let you manually set the ease of a single or multiple selected notes. This can be done from the Browser or the Reviewer.
+<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/main/screenshots/Set%20Ease%20-%20EditEase.gif?raw=content">
+
 
 # Coming Soon
-- [ ] Manually Set Ease
 - [ ] Audiovisual Feedback (fanfare fork)
 - [ ] Web Scraper (Editor Buttons- Web, Format, Batch Process)
 
