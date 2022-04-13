@@ -43,6 +43,10 @@ Adds a counter to the Anki homepage that counts how many new cards you've review
 This add-on will let you manually set the ease of a single or multiple selected notes. This can be done from the Browser or the Reviewer.
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/main/screenshots/Set%20Ease%20-%20EditEase.gif?raw=content">
 
+## UWorld QID to Anki Search
+This add-on will let you take a string of Question IDs (QID) from UWorld (i.e. 2628, 16383, 1836, 1233, 26373) and convert it into a search within the AnKing Step 1/2 Deck in the Anki browser. You can also export a string of QIDs 
+<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/main/screenshots/Uworld%20QID.gif?raw=content">
+
 
 # Coming Soon
 - [ ] Audiovisual Feedback (fanfare fork)
