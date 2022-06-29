@@ -49,7 +49,8 @@ Get visual and auditory feedback after reviewing and/or finishing a deck
 
 
 # Coming Soon
-- [ ] Audiovisual Feedback (fanfare fork)
 - [ ] Web Scraper (Editor Buttons- Web, Format, Batch Process)
+- [ ] PDF Exporter
+- [ ] Spelling Police
 
 
