@@ -31,10 +31,6 @@ Change the color of your tags and pin them to the top! This feature was previous
 A Pomodoro-style timer that lets helps keep you on task as you finish your reviews. The times and features are all customizable!
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/StudyTimer.jpg?raw=content">
 
-## Motivanki
-Add an inspiration quote to the homepage of Anki to keep you motivated!
-<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/Motivanki.jpg?raw=content">
-
 ## New Cards Counter
 Adds a counter to the Anki homepage that counts how many new cards you've reviewed today and this week (starting on a day of your choosing). On Anki 2.1.45+ it can also count a custom search query!
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/NewCardsCounter.jpg?raw=content">
@@ -46,6 +42,10 @@ This add-on will let you manually set the ease of a single or multiple selected 
 ## UWorld QID to Anki Search
 This add-on will let you take a string of Question IDs (QID) from UWorld (i.e. 2628, 16383, 1836, 1233, 26373) and convert it into a search within the AnKing Step 1/2 Deck in the Anki browser. You can also export a string of QIDs 
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/main/screenshots/Uworld%20QID.gif?raw=content">
+
+## Audiovisual Feedback
+Get visual and auditory feedback after reviewing and/or finishing a deck
+<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/Flashcard Recording.gif?raw=content">
 
 
 # Coming Soon
