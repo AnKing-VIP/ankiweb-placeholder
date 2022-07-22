@@ -47,6 +47,10 @@ This add-on will let you take a string of Question IDs (QID) from UWorld (i.e. 2
 Get visual and auditory feedback after reviewing and/or finishing a deck
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/Flashcard Recording.gif?raw=content">
 
+## Bionic Reading
+Apply Bionic Reading to Note Types for faster reading
+<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/bionic-reading.jpeg?raw=content">
+
 
 # Coming Soon
 - [ ] Web Scraper (Editor Buttons- Web, Format, Batch Process)
