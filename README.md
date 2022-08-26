@@ -51,10 +51,12 @@ Get visual and auditory feedback after reviewing and/or finishing a deck
 Apply Bionic Reading to Note Types for faster reading
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/bionic-reading.jpg?raw=content">
 
+## Export Anki to PDF
+Export Anki cards to PDF files
+<img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/anki_to_pdf.png?raw=content">
 
 # Coming Soon
 - [ ] Web Scraper (Editor Buttons- Web, Format, Batch Process)
-- [ ] PDF Exporter
 - [ ] Spelling Police
 
 
