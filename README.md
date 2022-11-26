@@ -57,7 +57,9 @@ Export Anki cards to PDF files
 
 ## Spell Checker
 Built-in spell checker and custom dictionary creation
+
 <img width="300" alt="Spell checker 1" src="https://user-images.githubusercontent.com/63011044/204074733-48a2a3b2-ad21-4ae5-ac46-1dd5e35b403e.png">
+
 <img width="300" alt="Spell checker 2" src="https://user-images.githubusercontent.com/63011044/204074736-978fdcde-81b8-4a35-9c3b-8a94bd32a3ab.png">
 
 # Coming Soon
