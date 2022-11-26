@@ -55,8 +55,10 @@ Apply Bionic Reading to Note Types for faster reading
 Export Anki cards to PDF files
 <img src="https://raw.githubusercontent.com/AnKingMed/ankiweb-placeholder/master/screenshots/anki_to_pdf.png?raw=content">
 
+## Spell Checker
+Built-in spell checker and custom dictionary creation
+
 # Coming Soon
 - [ ] Web Scraper (Editor Buttons- Web, Format, Batch Process)
-- [ ] Spelling Police
 
 
