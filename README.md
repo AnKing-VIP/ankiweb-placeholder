@@ -68,11 +68,11 @@ Built-in spell checker and custom dictionary creation
 ## Mobile Pop-up Dictionary
 Pop-up dictionary that works on Anki iOS and AnkiDroid too!
 
-<img width="300" alt="Mobile popup 1" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-AnKingDeckExample.gif?raw=content">
+<img width="600" alt="Mobile popup 1" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-AnKingDeckExample.gif?raw=content">
 
-<img width="300" alt="Mobile popup 2" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-AnKingDeckExampleMobile.PNG?raw=content">
+<img width="600" alt="Mobile popup 2" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-AnKingDeckExampleMobile.PNG?raw=content">
 
-<img width="300" alt="Mobile popup 1" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-ChineseDeckExample.gif?raw=content">
+<img width="600" alt="Mobile popup 1" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-ChineseDeckExample.gif?raw=content">
 
-<img width="300" alt="Mobile popup 2" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-ChineseDeckExampleMobile.PNG?raw=content">
+<img width="600" alt="Mobile popup 2" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-ChineseDeckExampleMobile.PNG?raw=content">
 
