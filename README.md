@@ -62,7 +62,17 @@ Built-in spell checker and custom dictionary creation
 
 <img width="300" alt="Spell checker 2" src="https://user-images.githubusercontent.com/63011044/204074736-978fdcde-81b8-4a35-9c3b-8a94bd32a3ab.png">
 
-# Coming Soon
-- [ ] Web Scraper (Editor Buttons- Web, Format, Batch Process)
+## Web Scraper
+- [ ] need to add
 
+## Mobile Pop-up Dictionary
+Pop-up dictionary that works on Anki iOS and AnkiDroid too!
+
+<img width="300" alt="Mobile popup 1" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-AnKingDeckExample.gif?raw=content">
+
+<img width="300" alt="Mobile popup 2" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-AnKingDeckExampleMobile.PNG?raw=content">
+
+<img width="300" alt="Mobile popup 1" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-ChineseDeckExample.gif?raw=content">
+
+<img width="300" alt="Mobile popup 2" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/MobilePopUp-ChineseDeckExampleMobile.PNG?raw=content">
 
