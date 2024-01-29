@@ -62,8 +62,11 @@ Built-in spell checker and custom dictionary creation
 
 <img width="300" alt="Spell checker 2" src="https://user-images.githubusercontent.com/63011044/204074736-978fdcde-81b8-4a35-9c3b-8a94bd32a3ab.png">
 
-## Web Scraper
-- [ ] need to add
+## Editor ProToolBox
+Incredible tools including the ability to scrape websites, translate words, do wiki searches, find images, and more!
+<img width="600" alt="Editor ProToolBox 1" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/EditorProToolbox - cat.gif?raw=content">
+
+<img width="600" alt="Editor ProToolBox 2" src="https://raw.githubusercontent.com/AnKing-VIP/ankiweb-placeholder/main/screenshots/EditorProToolbox - thesaurus.gif?raw=content">
 
 ## Mobile Pop-up Dictionary
 Pop-up dictionary that works on Anki iOS and AnkiDroid too!
