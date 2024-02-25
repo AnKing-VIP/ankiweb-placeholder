@@ -1,0 +1,13 @@
+name: Add issues to Add-on todos project
+
+on:
+  issues:
+    types:
+      - opened
+
+permissions:
+  contents: write
+
+jobs:
+  add-to-project:
+    uses: AnKing-VIP/anking_addon_template/.github/workflows/add_issue_to_project.yml@master
