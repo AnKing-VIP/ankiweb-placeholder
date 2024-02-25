@@ -11,3 +11,4 @@ permissions:
 jobs:
   add-to-project:
     uses: AnKing-VIP/anking_addon_template/.github/workflows/add_issue_to_project.yml@master
+    secrets: inherit
